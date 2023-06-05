@@ -1,2 +1,5 @@
+### SICP  
+
 This repository intended for the SICP (Structure And Interpretation Of 
-Computer Programs) course learning.
+Computer Programs) course learning.  
+
